@@ -15,6 +15,8 @@ return 0;
         int n=sc.nextInt();
        if(n>=0 && n<=30){
 System.out.println("fabonacci number is"+fib(n));
+
+sc.close();
        }
     }
 }

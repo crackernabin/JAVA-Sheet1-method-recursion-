@@ -18,6 +18,7 @@ public class factorial {
         }else{
             System.out.println("number is invalid");
         }
+        sc.close();
     }
 }
 
